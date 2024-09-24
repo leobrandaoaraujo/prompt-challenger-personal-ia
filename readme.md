@@ -121,3 +121,5 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+- [Arquivo prompt-v1.md](https://github.com/leobrandaoaraujo/prompt-challenger-personal-ia/blob/main/prompt/prompt-v1.md)
